@@ -110,11 +110,11 @@ export default function About() {
             <div className="relative rounded-3xl overflow-hidden border-2 border-[#E8E1D5] bg-[#F4EFE6] shadow-xl p-2.5">
               <div className="relative aspect-[3/4] w-full rounded-2xl overflow-hidden">
                 <Image
-                  src="/portfolio/page-2-img-1.webp"
+                  src="/portfolio/ishwari.webp"
                   alt="Ishwari Jangam Portrait"
                   fill
                   sizes="(max-width: 768px) 100vw, 450px"
-                  className="object-cover object-top hover:scale-105 transition-transform duration-700 ease-out"
+                  className="object-cover object-center hover:scale-105 transition-transform duration-700 ease-out"
                 />
               </div>
 

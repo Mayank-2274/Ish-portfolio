@@ -12,6 +12,7 @@ import {
   Sparkles,
   Heart,
 } from "lucide-react";
+import { playTactileClick } from "@/lib/sound";
 
 interface HobbyItem {
   id: string;
@@ -129,12 +130,36 @@ export default function About() {
               </div>
             </div>
 
-            {/* Tactile Stamp */}
-            <div className="hidden sm:flex absolute -bottom-5 -right-5 w-24 h-24 rounded-full bg-[#E9EDC9] border border-[#CCD5AE] shadow-md items-center justify-center p-2 text-center rotate-6">
-              <span className="font-script-hand text-xs font-bold text-[#4A4742] leading-tight">
-                Designed & Crafted with Joy
+            {/* Instagram Link Badge (replaces Designed & Crafted stamp) */}
+            <a
+              href="https://www.instagram.com/bishdoesart"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => playTactileClick()}
+              className="flex absolute -bottom-5 -right-3 sm:-right-5 w-24 h-24 rounded-full bg-gradient-to-tr from-[#f09433] via-[#dc2743] to-[#bc1888] border-2 border-white/70 shadow-lg shadow-[#dc2743]/30 flex-col items-center justify-center p-2 text-center rotate-6 hover:rotate-0 hover:scale-110 active:scale-95 transition-all duration-300 cursor-pointer group z-20 text-white"
+              title="Click here for Instagram page (@bishdoesart)"
+              aria-label="Click here for Instagram page"
+            >
+              {/* Instagram Icon */}
+              <svg
+                className="w-4 h-4 text-white mb-0.5 group-hover:scale-110 transition-transform shrink-0"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                <circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" stroke="none" />
+              </svg>
+              <span className="font-sans-body text-[9.5px] font-semibold text-white leading-tight drop-shadow-xs px-0.5">
+                Click here for
+                <br />
+                Instagram page
               </span>
-            </div>
+            </a>
           </motion.div>
 
           {/* Right Column: Editorial Typography & Interactive Bio */}

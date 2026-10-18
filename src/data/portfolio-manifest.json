@@ -1,0 +1,597 @@
+{
+  "totalPages": 18,
+  "pages": {
+    "1": {
+      "pageNumber": 1,
+      "images": [
+        {
+          "id": "page-1-img-1",
+          "png": "/portfolio/page-1-img-1.png",
+          "webp": "/portfolio/page-1-img-1.webp",
+          "width": 2070,
+          "height": 1401,
+          "aspectRatio": 1.4775
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-1-full.png",
+        "webp": "/portfolio/page-1-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "2": {
+      "pageNumber": 2,
+      "images": [
+        {
+          "id": "page-2-img-1",
+          "png": "/portfolio/page-2-img-1.png",
+          "webp": "/portfolio/page-2-img-1.webp",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-2-full.png",
+        "webp": "/portfolio/page-2-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "3": {
+      "pageNumber": 3,
+      "images": [
+        {
+          "id": "page-3-img-1",
+          "png": "/portfolio/page-3-img-1.png",
+          "webp": "/portfolio/page-3-img-1.webp",
+          "width": 384,
+          "height": 512,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-3-img-2",
+          "png": "/portfolio/page-3-img-2.png",
+          "webp": "/portfolio/page-3-img-2.webp",
+          "width": 300,
+          "height": 400,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-3-img-3",
+          "png": "/portfolio/page-3-img-3.png",
+          "webp": "/portfolio/page-3-img-3.webp",
+          "width": 368,
+          "height": 364,
+          "aspectRatio": 1.011
+        },
+        {
+          "id": "page-3-img-4",
+          "png": "/portfolio/page-3-img-4.png",
+          "webp": "/portfolio/page-3-img-4.webp",
+          "width": 384,
+          "height": 288,
+          "aspectRatio": 1.3333
+        },
+        {
+          "id": "page-3-img-5",
+          "png": "/portfolio/page-3-img-5.png",
+          "webp": "/portfolio/page-3-img-5.webp",
+          "width": 503,
+          "height": 322,
+          "aspectRatio": 1.5621
+        },
+        {
+          "id": "page-3-img-6",
+          "png": "/portfolio/page-3-img-6.png",
+          "webp": "/portfolio/page-3-img-6.webp",
+          "width": 360,
+          "height": 480,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-3-img-7",
+          "png": "/portfolio/page-3-img-7.png",
+          "webp": "/portfolio/page-3-img-7.webp",
+          "width": 365,
+          "height": 486,
+          "aspectRatio": 0.751
+        },
+        {
+          "id": "page-3-img-8",
+          "png": "/portfolio/page-3-img-8.png",
+          "webp": "/portfolio/page-3-img-8.webp",
+          "width": 600,
+          "height": 464,
+          "aspectRatio": 1.2931
+        },
+        {
+          "id": "page-3-img-9",
+          "png": "/portfolio/page-3-img-9.png",
+          "webp": "/portfolio/page-3-img-9.webp",
+          "width": 287,
+          "height": 211,
+          "aspectRatio": 1.3602
+        },
+        {
+          "id": "page-3-img-10",
+          "png": "/portfolio/page-3-img-10.png",
+          "webp": "/portfolio/page-3-img-10.webp",
+          "width": 575,
+          "height": 386,
+          "aspectRatio": 1.4896
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-3-full.png",
+        "webp": "/portfolio/page-3-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "4": {
+      "pageNumber": 4,
+      "images": [
+        {
+          "id": "page-4-img-1",
+          "png": "/portfolio/page-4-img-1.png",
+          "webp": "/portfolio/page-4-img-1.webp",
+          "width": 1676,
+          "height": 1072,
+          "aspectRatio": 1.5634
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-4-full.png",
+        "webp": "/portfolio/page-4-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "5": {
+      "pageNumber": 5,
+      "images": [
+        {
+          "id": "page-5-img-1",
+          "png": "/portfolio/page-5-img-1.png",
+          "webp": "/portfolio/page-5-img-1.webp",
+          "width": 960,
+          "height": 1280,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-5-img-2",
+          "png": "/portfolio/page-5-img-2.png",
+          "webp": "/portfolio/page-5-img-2.webp",
+          "width": 1049,
+          "height": 1065,
+          "aspectRatio": 0.985
+        },
+        {
+          "id": "page-5-img-3",
+          "png": "/portfolio/page-5-img-3.png",
+          "webp": "/portfolio/page-5-img-3.webp",
+          "width": 858,
+          "height": 691,
+          "aspectRatio": 1.2417
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-5-full.png",
+        "webp": "/portfolio/page-5-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "6": {
+      "pageNumber": 6,
+      "images": [
+        {
+          "id": "page-6-img-1",
+          "png": "/portfolio/page-6-img-1.png",
+          "webp": "/portfolio/page-6-img-1.webp",
+          "width": 648,
+          "height": 864,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-6-img-2",
+          "png": "/portfolio/page-6-img-2.png",
+          "webp": "/portfolio/page-6-img-2.webp",
+          "width": 600,
+          "height": 800,
+          "aspectRatio": 0.75
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-6-full.png",
+        "webp": "/portfolio/page-6-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "7": {
+      "pageNumber": 7,
+      "images": [
+        {
+          "id": "page-7-img-1",
+          "png": "/portfolio/page-7-img-1.png",
+          "webp": "/portfolio/page-7-img-1.webp",
+          "width": 864,
+          "height": 864,
+          "aspectRatio": 1.0
+        },
+        {
+          "id": "page-7-img-2",
+          "png": "/portfolio/page-7-img-2.png",
+          "webp": "/portfolio/page-7-img-2.webp",
+          "width": 1296,
+          "height": 1728,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-7-img-3",
+          "png": "/portfolio/page-7-img-3.png",
+          "webp": "/portfolio/page-7-img-3.webp",
+          "width": 972,
+          "height": 1296,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-7-img-4",
+          "png": "/portfolio/page-7-img-4.png",
+          "webp": "/portfolio/page-7-img-4.webp",
+          "width": 648,
+          "height": 864,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-7-img-5",
+          "png": "/portfolio/page-7-img-5.png",
+          "webp": "/portfolio/page-7-img-5.webp",
+          "width": 972,
+          "height": 1296,
+          "aspectRatio": 0.75
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-7-full.png",
+        "webp": "/portfolio/page-7-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "8": {
+      "pageNumber": 8,
+      "images": [
+        {
+          "id": "page-8-img-1",
+          "png": "/portfolio/page-8-img-1.png",
+          "webp": "/portfolio/page-8-img-1.webp",
+          "width": 643,
+          "height": 637,
+          "aspectRatio": 1.0094
+        },
+        {
+          "id": "page-8-img-2",
+          "png": "/portfolio/page-8-img-2.png",
+          "webp": "/portfolio/page-8-img-2.webp",
+          "width": 960,
+          "height": 1280,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-8-img-3",
+          "png": "/portfolio/page-8-img-3.png",
+          "webp": "/portfolio/page-8-img-3.webp",
+          "width": 980,
+          "height": 1306,
+          "aspectRatio": 0.7504
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-8-full.png",
+        "webp": "/portfolio/page-8-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "9": {
+      "pageNumber": 9,
+      "images": [
+        {
+          "id": "page-9-img-1",
+          "png": "/portfolio/page-9-img-1.png",
+          "webp": "/portfolio/page-9-img-1.webp",
+          "width": 776,
+          "height": 696,
+          "aspectRatio": 1.1149
+        },
+        {
+          "id": "page-9-img-2",
+          "png": "/portfolio/page-9-img-2.png",
+          "webp": "/portfolio/page-9-img-2.webp",
+          "width": 796,
+          "height": 672,
+          "aspectRatio": 1.1845
+        },
+        {
+          "id": "page-9-img-3",
+          "png": "/portfolio/page-9-img-3.png",
+          "webp": "/portfolio/page-9-img-3.webp",
+          "width": 981,
+          "height": 1230,
+          "aspectRatio": 0.7976
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-9-full.png",
+        "webp": "/portfolio/page-9-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "10": {
+      "pageNumber": 10,
+      "images": [
+        {
+          "id": "page-10-img-1",
+          "png": "/portfolio/page-10-img-1.png",
+          "webp": "/portfolio/page-10-img-1.webp",
+          "width": 1620,
+          "height": 1170,
+          "aspectRatio": 1.3846
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-10-full.png",
+        "webp": "/portfolio/page-10-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "11": {
+      "pageNumber": 11,
+      "images": [
+        {
+          "id": "page-11-img-1",
+          "png": "/portfolio/page-11-img-1.png",
+          "webp": "/portfolio/page-11-img-1.webp",
+          "width": 1620,
+          "height": 1170,
+          "aspectRatio": 1.3846
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-11-full.png",
+        "webp": "/portfolio/page-11-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "12": {
+      "pageNumber": 12,
+      "images": [
+        {
+          "id": "page-12-img-1",
+          "png": "/portfolio/page-12-img-1.png",
+          "webp": "/portfolio/page-12-img-1.webp",
+          "width": 1437,
+          "height": 963,
+          "aspectRatio": 1.4922
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-12-full.png",
+        "webp": "/portfolio/page-12-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "13": {
+      "pageNumber": 13,
+      "images": [
+        {
+          "id": "page-13-img-1",
+          "png": "/portfolio/page-13-img-1.png",
+          "webp": "/portfolio/page-13-img-1.webp",
+          "width": 960,
+          "height": 1280,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-13-img-2",
+          "png": "/portfolio/page-13-img-2.png",
+          "webp": "/portfolio/page-13-img-2.webp",
+          "width": 1506,
+          "height": 1172,
+          "aspectRatio": 1.285
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-13-full.png",
+        "webp": "/portfolio/page-13-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "14": {
+      "pageNumber": 14,
+      "images": [
+        {
+          "id": "page-14-img-1",
+          "png": "/portfolio/page-14-img-1.png",
+          "webp": "/portfolio/page-14-img-1.webp",
+          "width": 864,
+          "height": 1152,
+          "aspectRatio": 0.75
+        },
+        {
+          "id": "page-14-img-2",
+          "png": "/portfolio/page-14-img-2.png",
+          "webp": "/portfolio/page-14-img-2.webp",
+          "width": 851,
+          "height": 1134,
+          "aspectRatio": 0.7504
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-14-full.png",
+        "webp": "/portfolio/page-14-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "15": {
+      "pageNumber": 15,
+      "images": [
+        {
+          "id": "page-15-img-1",
+          "png": "/portfolio/page-15-img-1.png",
+          "webp": "/portfolio/page-15-img-1.webp",
+          "width": 640,
+          "height": 772,
+          "aspectRatio": 0.829
+        },
+        {
+          "id": "page-15-img-2",
+          "png": "/portfolio/page-15-img-2.png",
+          "webp": "/portfolio/page-15-img-2.webp",
+          "width": 751,
+          "height": 971,
+          "aspectRatio": 0.7734
+        },
+        {
+          "id": "page-15-img-3",
+          "png": "/portfolio/page-15-img-3.png",
+          "webp": "/portfolio/page-15-img-3.webp",
+          "width": 980,
+          "height": 1306,
+          "aspectRatio": 0.7504
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-15-full.png",
+        "webp": "/portfolio/page-15-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "16": {
+      "pageNumber": 16,
+      "images": [
+        {
+          "id": "page-16-img-1",
+          "png": "/portfolio/page-16-img-1.png",
+          "webp": "/portfolio/page-16-img-1.webp",
+          "width": 720,
+          "height": 960,
+          "aspectRatio": 0.75
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-16-full.png",
+        "webp": "/portfolio/page-16-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "17": {
+      "pageNumber": 17,
+      "images": [
+        {
+          "id": "page-17-img-1",
+          "png": "/portfolio/page-17-img-1.png",
+          "webp": "/portfolio/page-17-img-1.webp",
+          "width": 640,
+          "height": 480,
+          "aspectRatio": 1.3333
+        },
+        {
+          "id": "page-17-img-2",
+          "png": "/portfolio/page-17-img-2.png",
+          "webp": "/portfolio/page-17-img-2.webp",
+          "width": 375,
+          "height": 379,
+          "aspectRatio": 0.9894
+        },
+        {
+          "id": "page-17-img-3",
+          "png": "/portfolio/page-17-img-3.png",
+          "webp": "/portfolio/page-17-img-3.webp",
+          "width": 640,
+          "height": 480,
+          "aspectRatio": 1.3333
+        },
+        {
+          "id": "page-17-img-4",
+          "png": "/portfolio/page-17-img-4.png",
+          "webp": "/portfolio/page-17-img-4.webp",
+          "width": 587,
+          "height": 1042,
+          "aspectRatio": 0.5633
+        },
+        {
+          "id": "page-17-img-5",
+          "png": "/portfolio/page-17-img-5.png",
+          "webp": "/portfolio/page-17-img-5.webp",
+          "width": 800,
+          "height": 600,
+          "aspectRatio": 1.3333
+        },
+        {
+          "id": "page-17-img-6",
+          "png": "/portfolio/page-17-img-6.png",
+          "webp": "/portfolio/page-17-img-6.webp",
+          "width": 480,
+          "height": 640,
+          "aspectRatio": 0.75
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-17-full.png",
+        "webp": "/portfolio/page-17-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    },
+    "18": {
+      "pageNumber": 18,
+      "images": [
+        {
+          "id": "page-18-img-1",
+          "png": "/portfolio/page-18-img-1.png",
+          "webp": "/portfolio/page-18-img-1.webp",
+          "width": 4412,
+          "height": 668,
+          "aspectRatio": 6.6048
+        }
+      ],
+      "fullPage": {
+        "png": "/portfolio/page-18-full.png",
+        "webp": "/portfolio/page-18-full.webp",
+        "width": 4000,
+        "height": 2250,
+        "aspectRatio": 1.7778
+      }
+    }
+  }
+}
